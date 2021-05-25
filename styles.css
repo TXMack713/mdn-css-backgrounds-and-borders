@@ -59,13 +59,15 @@ span {
   border-bottom-right-radius: 40px;
   background-color: lightpink;
   height: 100px;
+
+  background-image: url(https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Frlv.zcache.com%2Fcustom_message_gold_star_with_gold_glitter_texture_star_sticker-r8c6018b4e6f64bd4b7386ba858eb00be_0ugdr_8byvr_704.jpg&sp=1621913176Tbfe032d5dcc9eb8836e914d990b60a4fe438fb62ba83643919a8a2583dd7e67d),
+    url(https://www.startpage.com/av/proxy-image?piurl=https%3A%2F%2Frlv.zcache.com%2Fcustom_message_gold_star_with_gold_glitter_texture_star_sticker-r8c6018b4e6f64bd4b7386ba858eb00be_0ugdr_8byvr_704.jpg&sp=1621913176Tbfe032d5dcc9eb8836e914d990b60a4fe438fb62ba83643919a8a2583dd7e67d);
+  background-size: contain;
+  background-repeat: no-repeat, repeat-y;
+  background-position: left center, right center;
+  text-align: center;
 }
 
 .exercise h2 {
   text-align: center;
-  background-image: url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Golden_star.svg/1070px-Golden_star.svg.png),
-    url(https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Golden_star.svg/1070px-Golden_star.svg.png);
-  /* background-size: contain; */
-  background-repeat: no-repeat, repeat-y;
-  background-position: left center, right center;
 }
